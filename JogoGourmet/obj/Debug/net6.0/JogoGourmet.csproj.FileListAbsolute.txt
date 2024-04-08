@@ -1,0 +1,42 @@
+C:\a\JogoGourmet\JogoGourmet\bin\Debug\net6.0\JogoGourmet.exe
+C:\a\JogoGourmet\JogoGourmet\bin\Debug\net6.0\JogoGourmet.deps.json
+C:\a\JogoGourmet\JogoGourmet\bin\Debug\net6.0\JogoGourmet.runtimeconfig.json
+C:\a\JogoGourmet\JogoGourmet\bin\Debug\net6.0\JogoGourmet.dll
+C:\a\JogoGourmet\JogoGourmet\bin\Debug\net6.0\JogoGourmet.pdb
+C:\a\JogoGourmet\JogoGourmet\obj\Debug\net6.0\JogoGourmet.GeneratedMSBuildEditorConfig.editorconfig
+C:\a\JogoGourmet\JogoGourmet\obj\Debug\net6.0\JogoGourmet.AssemblyInfoInputs.cache
+C:\a\JogoGourmet\JogoGourmet\obj\Debug\net6.0\JogoGourmet.AssemblyInfo.cs
+C:\a\JogoGourmet\JogoGourmet\obj\Debug\net6.0\JogoGourmet.csproj.CoreCompileInputs.cache
+C:\a\JogoGourmet\JogoGourmet\obj\Debug\net6.0\JogoGourmet.dll
+C:\a\JogoGourmet\JogoGourmet\obj\Debug\net6.0\refint\JogoGourmet.dll
+C:\a\JogoGourmet\JogoGourmet\obj\Debug\net6.0\JogoGourmet.pdb
+C:\a\JogoGourmet\JogoGourmet\obj\Debug\net6.0\JogoGourmet.genruntimeconfig.cache
+C:\a\JogoGourmet\JogoGourmet\obj\Debug\net6.0\ref\JogoGourmet.dll
+C:\a\JogoGourmet - Copia\JogoGourmet\bin\Debug\net6.0\JogoGourmet.exe
+C:\a\JogoGourmet - Copia\JogoGourmet\bin\Debug\net6.0\JogoGourmet.deps.json
+C:\a\JogoGourmet - Copia\JogoGourmet\bin\Debug\net6.0\JogoGourmet.runtimeconfig.json
+C:\a\JogoGourmet - Copia\JogoGourmet\bin\Debug\net6.0\JogoGourmet.dll
+C:\a\JogoGourmet - Copia\JogoGourmet\bin\Debug\net6.0\JogoGourmet.pdb
+C:\a\JogoGourmet - Copia\JogoGourmet\obj\Debug\net6.0\JogoGourmet.GeneratedMSBuildEditorConfig.editorconfig
+C:\a\JogoGourmet - Copia\JogoGourmet\obj\Debug\net6.0\JogoGourmet.AssemblyInfoInputs.cache
+C:\a\JogoGourmet - Copia\JogoGourmet\obj\Debug\net6.0\JogoGourmet.AssemblyInfo.cs
+C:\a\JogoGourmet - Copia\JogoGourmet\obj\Debug\net6.0\JogoGourmet.csproj.CoreCompileInputs.cache
+C:\a\JogoGourmet - Copia\JogoGourmet\obj\Debug\net6.0\JogoGourmet.dll
+C:\a\JogoGourmet - Copia\JogoGourmet\obj\Debug\net6.0\refint\JogoGourmet.dll
+C:\a\JogoGourmet - Copia\JogoGourmet\obj\Debug\net6.0\JogoGourmet.pdb
+C:\a\JogoGourmet - Copia\JogoGourmet\obj\Debug\net6.0\JogoGourmet.genruntimeconfig.cache
+C:\a\JogoGourmet - Copia\JogoGourmet\obj\Debug\net6.0\ref\JogoGourmet.dll
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\bin\Debug\net6.0\JogoGourmet.exe
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\bin\Debug\net6.0\JogoGourmet.deps.json
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\bin\Debug\net6.0\JogoGourmet.runtimeconfig.json
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\bin\Debug\net6.0\JogoGourmet.dll
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\bin\Debug\net6.0\JogoGourmet.pdb
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\obj\Debug\net6.0\JogoGourmet.GeneratedMSBuildEditorConfig.editorconfig
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\obj\Debug\net6.0\JogoGourmet.AssemblyInfoInputs.cache
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\obj\Debug\net6.0\JogoGourmet.AssemblyInfo.cs
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\obj\Debug\net6.0\JogoGourmet.csproj.CoreCompileInputs.cache
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\obj\Debug\net6.0\JogoGourmet.dll
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\obj\Debug\net6.0\refint\JogoGourmet.dll
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\obj\Debug\net6.0\JogoGourmet.pdb
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\obj\Debug\net6.0\JogoGourmet.genruntimeconfig.cache
+C:\a\Nova pasta\JogoGourmetObjective\JogoGourmet\obj\Debug\net6.0\ref\JogoGourmet.dll
